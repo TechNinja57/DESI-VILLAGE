@@ -47,7 +47,7 @@ Then you can check the status of the order:
 
 # `Update your profile`
 You can update your name, address, phone, email and password also:
-![Profile](https://i.ibb.co/GPcFx9j/Personal-Profile.png)
+![Profile](https://ibb.co/LtQ7FGz)
 
 # `About and Contact Us Page`
 Both the pages are designed with framer motion with pop up and on scroll animation:
