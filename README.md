@@ -27,12 +27,12 @@ Different filters on the basis of price,size,categories are there with paginatio
 # `Login Page`
 Login with Google or Manual login and signup features is added with confirmation mail sent to the email.
 Forgot Password and account activation is also added.
-![Login Page](https://i.ibb.co/mDZWgM5/Login-and-Signup.png)
+![Login Page](https://i.ibb.co/z8LRtQ8/image-2022-12-25-155755751.png)
 
 # `Item Detail`
 The Detail of every item with 4 images of food from differnt angles uploaded by the vendor with all the details of the product.
 Prices are updated on the basis of size real time.
-![Product Detail](https://i.ibb.co/z8LRtQ8/image-2022-12-25-155755751.png)
+![Product Detail](https://i.ibb.co/bQSm1K1/Product-Detail.png)
 
 # `Side Bar Cart`
 When pressed on add item to Cart, the item will be added to cart and sidebar cart will be shown up like this:
