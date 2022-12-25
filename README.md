@@ -27,6 +27,7 @@ Different filters on the basis of price,size,categories are there with paginatio
 # `Login Page`
 Login with Google or Manual login and signup features is added with confirmation mail sent to the email.
 Forgot Password and account activation is also added.
+
 ![Login Page](https://i.ibb.co/z8LRtQ8/image-2022-12-25-155755751.png)
 
 # `Item Detail`
